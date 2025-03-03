@@ -584,3 +584,11 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+div.gallery-item img.img-fluid w-100{
+    height: 150px;
+    width: 150px;
+    border: red;
+    border-radius: 150px;
+
+}
