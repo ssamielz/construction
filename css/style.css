@@ -18,6 +18,24 @@
     z-index: 99;
 }
 
+/* Custom styling for nested submenu */
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%; /* appear to the right */
+    margin-top: -1px;
+    display: none; /* hide initially */
+}
+
+/* Show submenu on hover */
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+
 
 /*** Spinner ***/
 #spinner {
