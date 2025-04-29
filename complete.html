@@ -89,14 +89,8 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
                         <div class="dropdown-menu fade-up m-0">
                             
-                            <div class="dropdown-submenu">
-                                <a href="#" class="dropdown-item dropdown-toggle active">Completed</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="mai.html" class="dropdown-item">MaiMahiu Residential Home</a></li>
-                                    <li><a href="kina.html" class="dropdown-item">Kinangop Residential Home</a></li>
-                                    <li><a href="kat.html" class="dropdown-item">Katani Residential Home</a></li>
-                                </ul>
-                            </div>
+                            <a href="complete.html"  class="dropdown-item">Completed</a> 
+
         
                             <a href="ongoing.html" class="dropdown-item">Ongoing</a>
                             <a href="designs.html" class="dropdown-item">Designs</a>
@@ -142,91 +136,125 @@
             <h1 class="mb-0">Our Recent Completed Projects</h1>
         </div>
         <div class="row g-4">
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <p>MaiMahiu Residential Home</p>
-                    <img src="img/mahiufrntdne.jpg" class="img-fluid w-100" alt="Project 1">
-                </div>
+            <!-- MaiMahiu Residential Home -->
+        <div class="col-12 mb-4">
+            <h5>MaiMahiu Residential Home</h5>
+            <div class="folder-icon mb-2" onclick="toggleImages(this)" style="cursor: pointer;">
+                <i class="fas fa-folder fa-3x text-warning"></i> <span class="ms-2">Click to open folder</span>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/mahiuback.jpg" class="img-fluid w-100" alt="Project 2">
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/mahiusidel.jpg" class="img-fluid w-100" alt="Project 2">
-                </div>
-            </div>
-            <p>Kinangop Residential Home</p>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kinangopfront.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
-            </div>
+            <div class="row g-3 project-images" style="display: none;">
+                <div class="row" style="margin-top: 20px;">
 
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kinanbackdone.jpg" class="img-fluid w-100" alt="Project 3">
+                <div class="col-sm-4">
+                    <img src="img/mahiufrntdne.jpg" class="img-fluid w-100" alt="">
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kinangopbac.jpg" class="img-fluid w-100" alt="Project 3">
+                <div class="col-sm-4">
+                    <img src="img/mahiuback.jpg" class="img-fluid w-100" alt="">
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kindining.jpg" class="img-fluid w-100" alt="Project 3">
+                <div class="col-sm-4">
+                    <img src="img/mahiusidel.jpg" class="img-fluid w-100" alt="">
                 </div>
+                
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/bedroomclose.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/interiocabi.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
+        </div>
+
+
+        <div class="col-12 mb-4">
+            <h5>Kinangop Residential Home</h5>
+            <div class="folder-icon mb-2" onclick="toggleImages(this)" style="cursor: pointer;">
+                <i class="fas fa-folder fa-3x text-warning"></i> <span class="ms-2">Click to open folder</span>
             </div>
-            <p>Katani Residential Home</p>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/katanifrnt.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
+            <div class="row g-3 project-images" style="display: none;">
+                <div class="row" style="margin-top: 20px;">
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/kinangopbac.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/kindining.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/bedroomclose.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/interiocabi.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/katanibak.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/katanistairs.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
+        </div>
+
+
+        <div class="col-12 mb-4">
+            <h5>Katani Residential Home</h5>
+            <div class="folder-icon mb-2" onclick="toggleImages(this)" style="cursor: pointer;">
+                <i class="fas fa-folder fa-3x text-warning"></i> <span class="ms-2">Click to open folder</span>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/katanibed.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
+            <div class="row g-3 project-images" style="display: none;">
+                <div class="row" style="margin-top: 20px;">
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/katanifrnt.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/katanibak.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/katanistairs.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/katanibed.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/shower.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="gallery-item">
+                            <img src="img/masterclose.jpg" class="img-fluid w-100" alt="Project 3">
+                        </div>
+                    </div>
+                
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/shower.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/masterclose.jpg" class="img-fluid w-100" alt="Project 3">
-                </div>
-            </div>
+        </div>
+
+
+ 
+        
         </div>
     </div>
     <!-- Gallery Section End -->
 
  
- 
+    <script>
+        function toggleImages(element) {
+            const imageContainer = element.nextElementSibling;
+            const isVisible = imageContainer.style.display === 'block';
+            imageContainer.style.display = isVisible ? 'none' : 'block';
+            element.querySelector('i').classList.toggle('fa-folder');
+            element.querySelector('i').classList.toggle('fa-folder-open');
+        }
+    </script>
+    
         
 
     <!-- Footer Start -->
