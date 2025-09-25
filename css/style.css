@@ -603,10 +603,11 @@
     color: var(--light);
 }
 
-div.gallery-item img.img-fluid w-100{
-    height: 150px;
-    width: 150px;
-    border: red;
-    border-radius: 150px;
+#imageContainer.mobile-small {
+    display: flex !important;
+    flex-wrap: wrap;
+}
 
+#imageContainer.mobile-small .col-lg-4 {
+    width: 50% !important; /* Adjust as needed */
 }

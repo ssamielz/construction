@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://catrisprecastconstructionltd.co.ke/sitemap.xml
+Host: catrisprecastconstructionltd.co.ke

@@ -3,15 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Catris Precast Construction Kenya</title>
+    <title>Catris Precast - We are Catris Precast Limited</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name=“description” content=“Catris Precast Construction Ltd in Kenya is a leading company in  precast building solutions, durable concrete products and structural components. Quality workmanship across Kenya.”>
-    <script type=“application/ld+json”>{“@context”:“https://schema.org","@type”:“LocalBusiness”,“name”:“Catris Precast Construction Ltd”,“url”:“https://catrisprecastconstructionltd.co.ke/“,“logo”:“https://catrisprecastconstructionltd.co.ke/img/logo.png”,“telephone”:”+254701948554",“address”:{“@type”:“PostalAddress”,“addressLocality”:“Nairobi”,“addressCountry”:"KE”}}</script>
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
     <!-- Favicon -->
     <link href="img/logo.jpeg" rel="icon">
 
     <!-- Google Web Fonts -->
-    <link rel=“canonical” href=“https://catrisprecastconstructionltd.co.ke/”>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
@@ -47,7 +47,7 @@
         <div class="row align-items-center top-bar">
             <div class="col-lg-3 col-md-12 text-center text-lg-start">
                 <a href="" class="navbar-brand m-0 p-0">
-                    <h1 class="text-primary m-0"><img src="img/logo.jpeg" alt="Catris Precast Construction Logo" width="20%"></h1>
+                    <h1 class="text-primary m-0"><img src="img/logo.jpeg" alt="" width="20%"></h1>
                 </a>
             </div>
             <div class="col-lg-9 col-md-12 text-end">
@@ -71,7 +71,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-white p-3 py-lg-0 px-lg-4">
             <div style="display: flex;">
                 <a href="" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
-                    <h1 class="text-primary m-0"><img src="img/logo.jpeg" alt="Catris Precast Construction Logo" width="60%"></h1>
+                    <h1 class="text-primary m-0"><img src="img/logo.jpeg" alt="" width="60%"></h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -118,13 +118,13 @@
     <div class="container-fluid p-0 mb-5">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="img/slide.png" alt="Catris Precast">
+                <img class="img-fluid" src="img/slide.png" alt="">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"  >
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8"> 
                                 <h1 class="display-3   animated slideInDown mb-4">Welcome to Catris Precast Construction</h1>
-                                <p class="fs-5 fw-medium  mb-4 pb-2">We at Catris Precast build with precast panels. The advantages of this new technology is that Precast panels are made off-site, enabling faster construction and reduced project timelines. Precast panels are combined with steel channels and beam-and-block technology for stronger structural support and efficient load distribution making it cost efficient and timely to complete. The panels are of good quality and strength through controlled manufacturing processes. They are durable and long-lasting, they resist fire, pests, and harsh weather conditions. Construction costs are lowered through reduced labor, waste, and on-site disruption. We love it because it offers flexibility in design, finishes, and integration with other materials.</p>
+                                <p class="fs-5 fw-medium  mb-4 pb-2">We at Catris Precast build with Precast Panels. The advantages of this new technology is that Precast panels are made off-site, enabling faster construction and reduced project timelines. Precast panels are combined with steel channels and beam-and-block technology for stronger structural support and efficient load distribution making it cost efficient and timely to complete. The panels are of good quality and strength through controlled manufacturing processes. They are durable and long-lasting, they resist fire, pests, and harsh weather conditions. Construction costs are lowered through reduced labor, waste, and on-site disruption. We love it because it offers flexibility in design, finishes, and integration with other materials.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"></a>
                             </div>
                         </div>
@@ -132,13 +132,13 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid"  src="img/silde2.png" alt="Precast Construction">
+                <img class="img-fluid"  src="img/silde2.png" alt="">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8"> 
                                 <h1 class="display-3   animated slideInDown mb-4">Innovating Excellence Through Engineering Precision.</h1>
-                                <p class="fs-5 fw-medium   mb-4 pb-2">At Catris precast, we believe that innovation and engineering are the driving forces behind our excellence. With cutting-edge software and seamless collaboration between our Design and Drawing teams, we deliver precise, efficient, and cost-effective solutions for every project.</p>
+                                <p class="fs-5 fw-medium   mb-4 pb-2">At Catris Precast, we believe that innovation and engineering are the driving forces behind our excellence. With cutting-edge software and seamless collaboration between our Design and Drawing teams, we deliver precise, efficient, and cost-effective solutions for every project.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"></a>
                             </div>
                         </div>
@@ -146,13 +146,13 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid"  src="img/slider3.png" alt="Catris Precast construction Kenya Nairobi">
+                <img class="img-fluid"  src="img/slider3.png" alt="">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8"> 
                                 <h1 class="display-3   animated slideInDown mb-4">Building Tomorrow with Innovation.</h1>
-                                <p class="fs-5 fw-medium   mb-4 pb-2">At Catris precast, we use Precast Panels for construction of walls, combined with advanced technology of beam and blocks to deliver cost-effective and sustainable building solutions. From design to execution, we ensure precision and excellence in every project.</p>
+                                <p class="fs-5 fw-medium   mb-4 pb-2">At Catris Precast, we combine advanced technology with expert engineering to deliver cost-effective and sustainable solutions. From design to execution, we ensure precision and excellence in every project.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"></a>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.1s">
                     <div class="overflow-hidden">
-                        <img class="img-fluid w-100 h-100" src="img/kamulu.png" alt="Catris Precast Construction">
+                        <img class="img-fluid w-100 h-100" src="img/kamulu.png" alt="">
                     </div>
                     <div class="d-flex align-items-center justify-content-between bg-light p-4">
                         <h5 class="text-truncate me-3 mb-0">Flat Roof Style </h5>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.5s">
                     <div class="overflow-hidden">
-                        <img class="img-fluid w-100 h-100" src="img/mitaboni.png" alt="Precast Catris Construction">
+                        <img class="img-fluid w-100 h-100" src="img/mitaboni.png" alt="">
                     </div>
                     <div class="d-flex align-items-center justify-content-between bg-light p-4">
                         <h5 class="text-truncate me-3 mb-0">Client Approved Site Machakos</h5>
@@ -226,8 +226,8 @@
                 </div>
                 <div class="col-lg-6 pt-4" style="min-height: 500px;">
                     <div class="position-relative h-100 wow fadeInUp" data-wow-delay="0.5s">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/mitabonirender.jpeg" style="object-fit: cover; padding: 0 0 50px 100px;" alt="Precast construction Catris">
-                        <img class="position-absolute start-0 bottom-0 img-fluid bg-white pt-2 pe-2 w-50 h-50" src="img/replac.jpg" style="object-fit: cover;" alt="Catris Precast construction">
+                        <img class="position-absolute img-fluid w-100 h-100" src="img/repl.jpg" style="object-fit: cover; padding: 0 0 50px 100px;" alt="">
+                        <img class="position-absolute start-0 bottom-0 img-fluid bg-white pt-2 pe-2 w-50 h-50" src="img/replac.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
             </div>
@@ -273,93 +273,73 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/Frontruiru.jpeg" class="img-fluid w-100" alt="Precast concrete wall panel installation" >
+                    <img src="img/kisiifront.jpg" class="img-fluid w-100" alt="Project 3" >
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/Frontsideruiru.jpeg" class="img-fluid w-100" alt="Precast concrete wall panel installation" >
+                    <img src="img/kisiidrone.jpg" class="img-fluid w-100" alt="Project 2" >
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/sideruiru.jpeg" class="img-fluid w-100" alt="Precast concrete wall panel installation" >
+                    <img src="img/mitabdrone.jpg" class="img-fluid w-100" alt="Project 2" >
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/kisiifront.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation" >
+                    <img src="img/mitabfront.jpg" class="img-fluid w-100" alt="Project 2" >
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/kisiifront.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation" >
+                    <img src="img/kinangopfront.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/kisiidrone.jpg" class="img-fluid w-100" alt="Precast Project 2" >
+                    <img src="img/kinaback.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/mitabdrone.jpg" class="img-fluid w-100" alt="Precast project 2" >
+                    <img src="img/kamulufront.jpg" class="img-fluid w-100" alt="Project 1">
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/mitabfront.jpg" class="img-fluid w-100" alt="Precast construction 2" >
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kinangopfront.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation">
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kinaback.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation">
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kamulufront.jpg" class="img-fluid w-100" alt="Precast concrete construction">
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="gallery-item">
-                    <img src="img/kamuback.jpg" class="img-fluid w-100" alt="Precast wall construction">
+                    <img src="img/kamuback.jpg" class="img-fluid w-100" alt="Project 1">
                 </div>
             </div>
            
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/gimuside.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation">
+                    <img src="img/gimuside.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
              <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/gimufront.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation">
+                    <img src="img/gimufront.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/mahiufrntdne.jpg" class="img-fluid w-100" alt="Precast concrete wall panel installation">
+                    <img src="img/mahiufrntdne.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
              <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/mahiuback.jpg" class="img-fluid w-100" alt="Precast concrete factory products">
+                    <img src="img/mahiuback.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/katanistairs.jpg" class="img-fluid w-100" alt="Precast concrete factory products">
+                    <img src="img/katanistairs.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
              <div class="col-lg-4 col-md-6">
                 <div class="gallery-item">
-                    <img src="img/katanifrnt.jpg" class="img-fluid w-100" alt="Precast concrete factory products">
+                    <img src="img/katanifrnt.jpg" class="img-fluid w-100" alt="Project 3">
                 </div>
             </div>
             
