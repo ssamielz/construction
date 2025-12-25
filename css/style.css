@@ -602,12 +602,3 @@
 .footer .copyright a {
     color: var(--light);
 }
-
-#imageContainer.mobile-small {
-    display: flex !important;
-    flex-wrap: wrap;
-}
-
-#imageContainer.mobile-small .col-lg-4 {
-    width: 50% !important; /* Adjust as needed */
-}
